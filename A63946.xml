@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sr. Edw. Turnor Kt., speaker of the honourable House of Commons, to the Kings Most Excellent Majesty, and both Houses of Parliament on February 9, 1664 ...</title>
+            <author>Turnor, Edward, Sir, 1617-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63946</idno>
+            <idno type="STC">Wing T3356</idno>
+            <idno type="STC">ESTC R1549</idno>
+            <idno type="EEBO-CITATION">12242127</idno>
+            <idno type="OCLC">ocm 12242127</idno>
+            <idno type="VID">56809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sr. Edw. Turnor Kt., speaker of the honourable House of Commons, to the Kings Most Excellent Majesty, and both Houses of Parliament on February 9, 1664 ...</title>
+                  <author>Turnor, Edward, Sir, 1617-1676.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political oratory --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56809:1"/>
+            <p>THE SPEECH OF S<hi rend="sup">r</hi> Edw: Turnor K<hi rend="sup">t</hi> Speaker of the Honourable Houſe of COMMONS, To the Kings moſt Excellent Majeſty, and both Houſes of Parliament, on <hi>February</hi> 9. 1664.</p>
+            <p>AT The Paſſing of the Act, entituled, <hi>An Act for granting a Royal Aid unto the Kings Majeſty, of Twenty four hun<g ref="char:EOLhyphen"/>dred threeſcore and ſeventeen thouſand and five hundred pounds, to be Raiſed, Levied and Paid in the ſpace of Three years.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">DIEV ET MON DROIT</q>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>English royal blazon, surmounted by a crown and flanked by the English lion and the Scottish unicorn</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1664.</p>
+            <p>CUM PRIVILEGIO.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:56809:2"/>
+            <pb n="3" facs="tcp:56809:2"/>
+            <head>THE SPEECH OF S<hi rend="sup">r</hi> Edward Turnor K<hi rend="sup">t.</hi> Speaker of the Honourable Houſe of COMMONS, <hi>To the Kings moſt Excellent Majesty, and both Houſes of Parliament,</hi> Febr. 9. 1664.</head>
+            <head type="sub">
+               <hi>AT The Paſſing of the Act, entituled,</hi> An Act for granting a Royal Aide unto the Kings Majeſty, of Twenty four hundred threeſcore and ſeventeen thouſand and five hun<g ref="char:EOLhyphen"/>dred pounds, to be Raiſed, Levied and Paid in the ſpace of Three years.</head>
+            <opener>
+               <salute>May it pleaſe Your moſt Excellent Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE laſt Seſſion of this Par<g ref="char:EOLhyphen"/>liament, the Lords and Commons did humbly re<g ref="char:EOLhyphen"/>preſent unto Your Ma<g ref="char:EOLhyphen"/>jeſty, the many Wrongs and Indignities that were done to Your
+<pb n="4" facs="tcp:56809:3"/>Majeſty, and the many Injuries done to your Merchants, by the Subjects of the United Provinces; and did moſt hum<g ref="char:EOLhyphen"/>bly beſeech Your Majeſty, that ſome effectuall Courſe might be taken for Re<g ref="char:EOLhyphen"/>dreſs thereof.</p>
+            <p>Your Majeſty at the opening of this Seſſion was graciouſly pleaſed to acquaint Your Two Houſes, That in purſuance to their Deſires, You had by Your Agent required Satisfaction; but that Way proved ineffectual, and many freſh Provocations were offered, whereby Your Majeſty was neceſſita<g ref="char:EOLhyphen"/>ted to a Warlike preparation; by the ſpeedy Diſpatch whereof, You had let Your Neighbours ſee, That You could defend Your Self, and Your Sub<g ref="char:EOLhyphen"/>jects againſt their Inſolence, upon the Stock of Your own Credit, before Your Parliament came together.</p>
+            <p>And now <hi>SIR,</hi> Give me leave to ſay, Your Neighbours may ſee how a great King is made greater by His Parliament. Your Loyal Com<g ref="char:EOLhyphen"/>mons, after they Convened, did not
+<pb n="5" facs="tcp:56809:3"/>ſuffer full Four and Twenty hours to paſs, before they moſt chearfully gave Your Majeſty more then Four and twenty hundred thouſand pounds.</p>
+            <p>Hiſtorians tell us, That in <hi>Biſcay,</hi> a Signiory of <hi>Spain,</hi> when the King entreth into the Frontiers of the Coun<g ref="char:EOLhyphen"/>trey, the Lords and Gentlemen there dwelling, proffer him ſome few Braſs<g ref="char:EOLhyphen"/>pieces, called <hi>Maravides,</hi> in a leathern Bag, hanged at the end of a Lance; but withal they tell him, that he muſt not take them.</p>
+            <p>
+               <hi>Great SIR,</hi>
+               <lb/> Your Lords and Commons will not only yield obedience to You with their Bodies, but with their Purſes alſo: In token whereof, I do in the name of all the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> preſent unto Your Majeſty this Bill; whereby we have given unto Your Majeſty a Royall Ayde of Four and twenty hundred ſeventy ſe<g ref="char:EOLhyphen"/>ven thouſand and five hundred pounds, to be paid in three years by twelve quarterly Payments, to begin from
+<pb n="6" facs="tcp:56809:4"/>the Five and twentieth of <hi>December</hi> laſt. And we do humbly beſeech Your Majeſty to accept it as a pregnant Demonſtration of our moſt unfeign<g ref="char:EOLhyphen"/>ed Duty and Thankfulneſs to Your Majeſty.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:56809:4"/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1664.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
